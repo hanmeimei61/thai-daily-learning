@@ -1,0 +1,12 @@
+{
+  "name": "泰语日课 · เรียนไทย",
+  "short_name": "泰语日课",
+  "description": "每天学一点，开口说泰语。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f6f1",
+  "theme_color": "#f7f6f1",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
